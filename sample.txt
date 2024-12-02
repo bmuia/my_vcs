@@ -1,0 +1,1 @@
+echo "This is the first version of my file." > sample.txt
